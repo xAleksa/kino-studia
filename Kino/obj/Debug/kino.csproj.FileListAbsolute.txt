@@ -1,0 +1,9 @@
+C:\Users\damian\source\repos\Kino\kino\bin\Debug\kino.exe.config
+C:\Users\damian\source\repos\Kino\kino\bin\Debug\kino.exe
+C:\Users\damian\source\repos\Kino\kino\bin\Debug\kino.pdb
+C:\Users\damian\source\repos\Kino\kino\obj\Debug\kino.csprojAssemblyReference.cache
+C:\Users\damian\source\repos\Kino\kino\obj\Debug\kino.Form1.resources
+C:\Users\damian\source\repos\Kino\kino\obj\Debug\kino.Properties.Resources.resources
+C:\Users\damian\source\repos\Kino\kino\obj\Debug\kino.csproj.GenerateResource.cache
+C:\Users\damian\source\repos\Kino\kino\obj\Debug\kino.exe
+C:\Users\damian\source\repos\Kino\kino\obj\Debug\kino.pdb

@@ -1,0 +1,11 @@
+C:\Users\damian\source\repos\Kino\WindowsFormsApp5\bin\Debug\netcoreapp3.1\WindowsFormsApp5.exe
+C:\Users\damian\source\repos\Kino\WindowsFormsApp5\bin\Debug\netcoreapp3.1\WindowsFormsApp5.deps.json
+C:\Users\damian\source\repos\Kino\WindowsFormsApp5\bin\Debug\netcoreapp3.1\WindowsFormsApp5.runtimeconfig.json
+C:\Users\damian\source\repos\Kino\WindowsFormsApp5\bin\Debug\netcoreapp3.1\WindowsFormsApp5.runtimeconfig.dev.json
+C:\Users\damian\source\repos\Kino\WindowsFormsApp5\bin\Debug\netcoreapp3.1\WindowsFormsApp5.dll
+C:\Users\damian\source\repos\Kino\WindowsFormsApp5\bin\Debug\netcoreapp3.1\WindowsFormsApp5.pdb
+C:\Users\damian\source\repos\Kino\WindowsFormsApp5\obj\Debug\netcoreapp3.1\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\damian\source\repos\Kino\WindowsFormsApp5\obj\Debug\netcoreapp3.1\WindowsFormsApp5.AssemblyInfoInputs.cache
+C:\Users\damian\source\repos\Kino\WindowsFormsApp5\obj\Debug\netcoreapp3.1\WindowsFormsApp5.AssemblyInfo.cs
+C:\Users\damian\source\repos\Kino\WindowsFormsApp5\obj\Debug\netcoreapp3.1\WindowsFormsApp5.dll
+C:\Users\damian\source\repos\Kino\WindowsFormsApp5\obj\Debug\netcoreapp3.1\WindowsFormsApp5.pdb
